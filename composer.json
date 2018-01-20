@@ -1,0 +1,7 @@
+{
+    "name": "pawel.pl/nox",
+    "require": {
+        "phpmailer/phpmailer": "^5.2",
+        "html2text/html2text": "^4.1"
+    }
+}
